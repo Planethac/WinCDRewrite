@@ -1,0 +1,14 @@
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\bin\Debug\net8.0\WinCDRewrite.exe
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\bin\Debug\net8.0\WinCDRewrite.deps.json
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\bin\Debug\net8.0\WinCDRewrite.runtimeconfig.json
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\bin\Debug\net8.0\WinCDRewrite.dll
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\bin\Debug\net8.0\WinCDRewrite.pdb
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\obj\Debug\net8.0\WinCDRewrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\obj\Debug\net8.0\WinCDRewrite.AssemblyInfoInputs.cache
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\obj\Debug\net8.0\WinCDRewrite.AssemblyInfo.cs
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\obj\Debug\net8.0\WinCDRewrite.csproj.CoreCompileInputs.cache
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\obj\Debug\net8.0\WinCDRewrite.dll
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\obj\Debug\net8.0\refint\WinCDRewrite.dll
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\obj\Debug\net8.0\WinCDRewrite.pdb
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\obj\Debug\net8.0\WinCDRewrite.genruntimeconfig.cache
+C:\Users\Planethac\RiderProjects\WinCDRewrite\WinCDRewrite\obj\Debug\net8.0\ref\WinCDRewrite.dll
