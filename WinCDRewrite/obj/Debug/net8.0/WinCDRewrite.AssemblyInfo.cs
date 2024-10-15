@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinCDRewrite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea67dafc95590d1822023ceba9f1dcab5ad4b9ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinCDRewrite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinCDRewrite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

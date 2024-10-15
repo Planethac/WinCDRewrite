@@ -10,6 +10,8 @@ namespace WinCDRewrite
             Console.WriteLine("(C) Planethac 2024");
             Console.WriteLine();
             int mediaType = MediaTypeSelect();
+            Console.Clear();
+            FileInfo isoFile = GetIsoFile();
         }
 
         public static int MediaTypeSelect()
@@ -33,6 +35,35 @@ namespace WinCDRewrite
                 Console.WriteLine("Please Specify a valid Number (0-3, 9)");
                 Console.WriteLine();
                 return MediaTypeSelect();
+            }
+        }
+
+        public static FileInfo GetIsoFile()
+        {
+            Console.WriteLine("Enter ISO path");
+            Console.Write(": ");
+            string FileStr = Console.ReadLine();
+            try
+            {
+                FileInfo fileInfo = new FileInfo(FileStr);
+                if (fileInfo.Extension == ".iso")
+                {
+                    return fileInfo;
+                }
+                else
+                {
+                    Console.Clear();
+                    Console.WriteLine("File is not an iso");
+                    Console.WriteLine();
+                    return GetIsoFile();
+                }
+            }
+            catch (Exception e)
+            {
+                Console.Clear();
+                Console.WriteLine("Please Enter a valid ISO path (ae: G:\\Files\\Windows.iso)");
+                Console.WriteLine();
+                return GetIsoFile();
             }
         }
     }
